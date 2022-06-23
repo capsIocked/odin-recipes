@@ -1,0 +1,31 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-color: blanchedalmond;
+}
+img{
+    height: 300px;
+    width: auto;
+}
+h1, h2{
+    background-color: darkolivegreen;
+    text-align: center;
+    color: goldenrod;
+}
+ul, ol {
+    background-color: khaki;
+}
+li{
+    color:darkred;
+}
+p{
+    color: mediumseagreen;
+}
+#warning{
+    color: red;
+    font-size: 1.5em;
+}
+.steps{
+    font-style: italic;
+}
